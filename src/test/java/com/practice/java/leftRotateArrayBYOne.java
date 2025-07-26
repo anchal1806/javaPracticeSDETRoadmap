@@ -1,6 +1,5 @@
 package com.practice.java;
 
-import org.omg.Messaging.SyncScopeHelper;
 
 public class leftRotateArrayBYOne {
     public static void main(String[] args) {
